@@ -31,8 +31,8 @@
     </style>
   </defs>
   <title>apolo15_1</title>
-  <image class="cls-1" width="611" height="1765" transform="translate(191.59 116.03) scale(0.3)" xlink:href="https://github.com/Programa-Apolo/clase-16/blob/main/img/apolo15_1.PNG"/>
-  <image class="cls-1" width="2040" height="1807" transform="matrix(-0.02, 0, 0, 0.02, 480.18, 195.22)" xlink:href="img/apolo15_2.PNG"/>
+  <image class="cls-1" width="611" height="1765" transform="translate(191.59 116.03) scale(0.3)" xlink:href="apolo15_1.PNG"/>
+  <image class="cls-1" width="2040" height="1807" transform="matrix(-0.02, 0, 0, 0.02, 480.18, 195.22)" xlink:href="apolo15_2.PNG"/>
   <polyline class="cls-2" points="299.11 106.97 138.11 106.97 138.11 638.97 263.11 638.97"/>
   <text class="cls-3" transform="translate(70.52 357.63)">110.6 M</text>
   <polyline class="cls-2" points="441.08 225.41 413.68 225.41 413.68 204.01 453.18 204.11"/>
