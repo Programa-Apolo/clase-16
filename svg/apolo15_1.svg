@@ -1,1 +1,54 @@
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 931.1 706"><defs><style>.cls-1,.cls-4{isolation:isolate;}.cls-2{fill:none;stroke:#fff;stroke-miterlimit:10;}.cls-3,.cls-4{font-size:14px;fill:#fff;font-family:Roboto-Regular, Roboto;}.cls-5{letter-spacing:-0.01em;}.cls-6{letter-spacing:0.02em;}</style></defs><title>Proporción de rovin</title><rect width="931.1" height="706"/><image class="cls-1" width="611" height="1765" transform="translate(382.98 86.46) scale(0.3)" xlink:href="31D22A13.png"/><image class="cls-1" width="2040" height="1807" transform="matrix(-0.02, 0, 0, 0.02, 666, 156.92)" xlink:href="IMG_5314.PNG"/><polyline class="cls-2" points="490.5 77.4 329.5 77.4 329.5 609.4 454.5 609.4"/><text class="cls-3" transform="translate(261.91 328.06)">110.6 M</text><polyline class="cls-2" points="626.9 193.7 599.5 193.7 599.5 172.3 639 172.4"/><text class="cls-4" transform="translate(557.73 185.5)">90cm</text><text class="cls-4" transform="translate(544.01 245.95)">Int<tspan class="cls-5" x="16.11" y="0">r</tspan><tspan x="20.71" y="0">oducido en un compa</tspan><tspan class="cls-6" x="154.94" y="0">r</tspan><tspan x="160.02" y="0">timen</tspan><tspan class="cls-5" x="195.41" y="0">t</tspan><tspan x="199.84" y="0">o </tspan></text><text class="cls-4" transform="translate(544.01 262.75)">del módulo de descenso LEM</text><polyline class="cls-2" points="502.5 163.4 536.5 163.4 536.5 206.4 508.5 206.4"/></svg>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 645.67 706">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-size: 14px;
+        fill: #fff;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-6 {
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <title>apolo15_1</title>
+  <image class="cls-1" width="611" height="1765" transform="translate(191.59 116.03) scale(0.3)" xlink:href="apolo15_11.png"/>
+  <image class="cls-1" width="2040" height="1807" transform="matrix(-0.02, 0, 0, 0.02, 480.18, 195.22)" xlink:href="C:%5CUsers%5CCata%5CDownloads%5CIMG_5314.PNG"/>
+  <polyline class="cls-2" points="299.11 106.97 138.11 106.97 138.11 638.97 263.11 638.97"/>
+  <text class="cls-3" transform="translate(70.52 357.63)">110.6 M</text>
+  <polyline class="cls-2" points="441.08 225.41 413.68 225.41 413.68 204.01 453.18 204.11"/>
+  <text class="cls-3" transform="translate(371.91 218.93)">90cm</text>
+  <g class="cls-1">
+    <text class="cls-3" transform="translate(378.33 259.43)">Int</text>
+    <text class="cls-4" transform="translate(394.44 259.43)">r</text>
+    <text class="cls-3" transform="translate(399.04 259.43)">oducido en un compa</text>
+    <text class="cls-5" transform="translate(533.27 259.43)">r</text>
+    <text class="cls-3" transform="translate(538.35 259.43)">timen</text>
+    <text class="cls-4" transform="translate(573.74 259.43)">t</text>
+    <text class="cls-3" transform="translate(578.17 259.43)">o</text>
+  </g>
+  <text class="cls-3" transform="translate(378.33 276.23)">del módulo de descenso LEM</text>
+  <g class="cls-6">
+    <polyline class="cls-2" points="311.11 192.97 345.11 192.97 345.11 235.97 317.11 235.97"/>
+    <line class="cls-2" x1="344.97" y1="214.43" x2="362.97" y2="214.43"/>
+  </g>
+</svg>
